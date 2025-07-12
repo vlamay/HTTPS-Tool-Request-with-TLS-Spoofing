@@ -1,0 +1,17 @@
+{
+  "target_urls": [
+    "https://www.viagogo.co.uk/Concert-Tickets/Rock-and-Pop/Sting-Tickets/E-157332132",
+    "https://www.viagogo.co.uk/Concert-Tickets/Alternative-and-Indie/Coldplay-Tickets/E-155391504",
+    "https://www.stubhub.com/stardew-valley-denver-tickets-9-13-2025/event/156264784",
+    "https://www.viagogo.com/Concert-Tickets/Alternative-Music/Coldplay-Tickets/E-155741198"
+  ],
+  "proxy_list": [
+    "http://8.219.97.248:80"
+  ],
+  "num_requests": 50,
+  "tls_profile": "random",
+  "delay_range": [
+    500,
+    3000
+  ]
+}
